@@ -1,0 +1,5 @@
+# Exclusion des fichiers Eclipse et Maven (.project, .target, .etc)
+*.target
+
+# Ignorer tous les fichiers dans le repertoire build
+build/
