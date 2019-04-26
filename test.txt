@@ -1,2 +1,6 @@
 Le lion est un félidé. Il est considré comme le roi des animaux. Il vit principalement dans des zones arides telles que la savane.
+<<<<<<< HEAD
 Le chat est un félidé. Il est considéré comme le roi d'internet. Il vit principalement dans des zones arides telles que la savane. Ou alors la télévision ne nous transmet pas toujours la vérité.
+=======
+L'éléphant est un pachyderme. Il est considéré comme le roi des animaux. Il aime l'eau. Il vit principalement dans des zones arides telles que la savane. Il se fait chasser pour son ivoire.
+>>>>>>> feature/elephant
